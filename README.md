@@ -34,9 +34,11 @@
     - Frontend Development (Algorithmics Global)
     - Frontend Development (Div Academy)
     - JavaScript (Beonmax)
+    - JavaScript/JQUERY (Beonmax)
     - Web Developepment (Beonmax)
-    - HTML/CSS (AzTU)
     - HTML/CSS (Beonmax)
+    - HTML/CSS (AzTU)
+    
 
 
 
