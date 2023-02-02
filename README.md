@@ -12,6 +12,7 @@
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React_Router-%23323330.svg?style=for-the-badge&logo=react-router&logoColor=white"> 
   <img src="https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </div> 
 <div>
