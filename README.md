@@ -71,5 +71,5 @@
 
 
 
-![Ceyhun1999's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ceyhun1999&custom_title=Jeyhun's%20GitHub%20Activity%20Graph&bg_color=1c1917&color=A9FEF7&line=0891b2&point=ffffff&area_color=0891b2&title_color=0891b2&area=true)
+
 
