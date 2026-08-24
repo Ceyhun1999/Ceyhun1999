@@ -4,19 +4,15 @@
 
 ### 🍎 iOS Developer
 
-Building clean, scalable and user-focused iOS applications
-with **Swift, SwiftUI and UIKit**.
-
-<br>
+Building clean, scalable and user-focused iOS applications with
+**Swift · SwiftUI · UIKit**
 
 <a href="https://github.com/Ceyhun1999">
   <img src="https://img.shields.io/badge/GitHub-Ceyhun1999-181717?style=for-the-badge&logo=github" />
 </a>
-
 <a href="https://www.linkedin.com/in/ceyhun-rzayev/">
   <img src="https://img.shields.io/badge/LinkedIn-Ceyhun_Rzayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:ceyhun.rzayeev@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -59,7 +55,7 @@ Before moving into iOS development, I worked as a **Frontend Developer**, buildi
 
 ---
 
-# 🍎 iOS Development
+## 🍎 iOS Development
 
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
@@ -68,80 +64,33 @@ Before moving into iOS development, I worked as a **Frontend Developer**, buildi
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
-### Core iOS Skills
-
-* Swift
-* SwiftUI
-* UIKit
-* Auto Layout
-* Navigation
-* State Management
-* Async / Await
-* URLSession
-* REST API Integration
-* Codable
-* JSON
-* MVVM
-* MVC
-* Dependency Injection
-* SOLID Principles
-
----
-
-## 💾 Data & Persistence
-
-* UserDefaults
-* Keychain
-* FileManager
-* Core Data
-* Codable
-* Local Storage
-
----
-
-## 🌐 Networking
-
-* REST APIs
-* URLSession
-* async / await
-* JSONDecoder
-* Error Handling
-* API Response Modeling
-* Loading / Error States
-
----
-
-## 🏗 Architecture & Code Quality
-
-```text
-MVVM
-MVC
-SOLID
-Dependency Injection
-Separation of Concerns
-Reusable Components
-Clean Code
-```
+| Core iOS         | Networking             | Data & Persistence | Architecture           |
+| ---------------- | ---------------------- | ------------------ | ---------------------- |
+| Swift            | REST APIs              | UserDefaults       | MVVM                   |
+| SwiftUI          | URLSession             | Keychain           | MVC                    |
+| UIKit            | async / await          | FileManager        | SOLID                  |
+| Auto Layout      | JSONDecoder            | Core Data          | Dependency Injection   |
+| Navigation       | Error Handling         | Codable            | Separation of Concerns |
+| State Management | API Response Modeling  | Local Storage      | Reusable Components    |
+| Codable          | Loading / Error States | JSON               | Clean Code             |
 
 I focus on writing code that is easy to understand, maintain and extend.
 
 ---
 
-# 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
-* 📱 Native iOS applications
-* 🎨 SwiftUI interfaces
-* 🧭 Navigation and application flow
-* 🌐 REST API integration
-* 💾 Local data persistence
-* 🧩 Reusable SwiftUI components
-* 🏗 MVVM architecture
-* ⚡ Application performance
-* 🧪 Improving my iOS architecture knowledge
+| 📱 Development                  | 🏗 Engineering                          |
+| ------------------------------- | --------------------------------------- |
+| Native iOS applications         | MVVM architecture                       |
+| SwiftUI interfaces              | Clean architecture                      |
+| Navigation and application flow | Reusable SwiftUI components             |
+| REST API integration            | Application performance                 |
+| Local data persistence          | Improving my iOS architecture knowledge |
 
 ---
 
-# 🧠 Current Focus
+## 🧠 Current Focus
 
 ```swift
 enum CurrentFocus {
@@ -158,7 +107,10 @@ My main goal is to grow as an **iOS Engineer** and build production-quality appl
 
 ---
 
-# 🌐 Previous Experience — Frontend Development
+<details>
+<summary><b>🌐 Previous Experience — Frontend Development</b></summary>
+
+<br>
 
 Before focusing on iOS, I worked professionally as a **Frontend Developer**.
 
@@ -185,94 +137,58 @@ My frontend experience includes:
 
 > Frontend development is part of my professional background, while my current career focus is **iOS Development**.
 
+</details>
+
 ---
 
-# 🛠 Tools
+## 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-* Xcode
-* Git
-* GitHub
-* Figma
-* Postman
-* VS Code
+**Xcode · Git · GitHub · Figma · Postman · VS Code**
 
 ---
 
-# 💡 Development Principles
+<details>
+<summary><b>💡 Development Principles</b></summary>
 
-> Clean Code
+<br>
 
-> Simple Architecture
-
-> Reusable Components
-
-> Pixel-Perfect UI
-
-> Maintainability
-
-> Performance
-
-> User Experience
+**Clean Code · Simple Architecture · Reusable Components · Pixel-Perfect UI · Maintainability · Performance · User Experience**
 
 For me, good software should not only work — it should also be easy to understand, maintain and improve.
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ceyhun1999&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceyhun1999&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+</details>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ceyhun1999&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm open to **iOS development opportunities**, collaborations and interesting projects.
 
-| Platform    | Contact                                                     |
-| ----------- | ----------------------------------------------------------- |
-| 💼 LinkedIn | [Ceyhun Rzayev](https://www.linkedin.com/in/ceyhun-rzayev/) |
-| 💻 GitHub   | [@Ceyhun1999](https://github.com/Ceyhun1999)                |
-| ✈️ Telegram | [@jr_solutions](https://t.me/jr_solutions)                  |
-| 💬 WhatsApp | [+994 51 999 33 48](https://wa.me/994519993348)             |
-| 📞 Phone    | [+994 51 999 33 48](tel:+994519993348)                      |
-| 📧 Email    | [ceyhun.rzayeev@gmail.com](mailto:ceyhun.rzayeev@gmail.com) |
-
----
+|                 |                                                             |
+| --------------- | ----------------------------------------------------------- |
+| 💼 **LinkedIn** | [Ceyhun Rzayev](https://www.linkedin.com/in/ceyhun-rzayev/) |
+| 💻 **GitHub**   | [@Ceyhun1999](https://github.com/Ceyhun1999)                |
+| ✈️ **Telegram** | [@jr_solutions](https://t.me/jr_solutions)                  |
+| 💬 **WhatsApp** | [+994 51 999 33 48](https://wa.me/994519993348)             |
+| 📞 **Phone**    | [+994 51 999 33 48](tel:+994519993348)                      |
+| 📧 **Email**    | [ceyhun.rzayeev@gmail.com](mailto:ceyhun.rzayeev@gmail.com) |
 
 <div align="center">
 
 ### 🍎 Swift · SwiftUI · UIKit
 
-### Code. Build. Learn. Improve.
-
-<br>
+**Code. Build. Learn. Improve.**
 
 ⭐ Feel free to explore my repositories and projects.
-
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ceyhun1999\&style=flat-square)
 
