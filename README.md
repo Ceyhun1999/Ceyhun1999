@@ -10,7 +10,7 @@ Building clean, scalable and user-focused iOS applications with
 <a href="https://github.com/Ceyhun1999">
   <img src="https://img.shields.io/badge/GitHub-Ceyhun1999-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/ceyhun-rzayev/">
+<a href="https://www.linkedin.com/in/jeyhun-rzayev/">
   <img src="https://img.shields.io/badge/LinkedIn-Ceyhun_Rzayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ceyhun.rzayeev@gmail.com">
@@ -175,7 +175,7 @@ I'm open to **iOS development opportunities**, collaborations and interesting pr
 
 |                 |                                                             |
 | --------------- | ----------------------------------------------------------- |
-| 💼 **LinkedIn** | [Ceyhun Rzayev](https://www.linkedin.com/in/ceyhun-rzayev/) |
+| 💼 **LinkedIn** | [Ceyhun Rzayev](https://www.linkedin.com/in/jeyhun-rzayev/) |
 | 💻 **GitHub**   | [@Ceyhun1999](https://github.com/Ceyhun1999)                |
 | ✈️ **Telegram** | [@jr_solutions](https://t.me/jr_solutions)                  |
 | 💬 **WhatsApp** | [+994 51 999 33 48](https://wa.me/994519993348)             |
