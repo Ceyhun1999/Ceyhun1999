@@ -32,6 +32,39 @@
 
 ---
 
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Ceyhun1999/ex88">
+        <img src="https://raw.githubusercontent.com/Ceyhun1999/ex88/main/docs/screenshots/hero-light.webp" alt="Ex88.ru landing page" width="260">
+      </a>
+      <h3><a href="https://github.com/Ceyhun1999/ex88">Ex88.ru</a></h3>
+      <p>Landing page for a ruble-to-baht and dong exchange service with a live rate calculator, RU / EN, light and dark themes.</p>
+      <p><sub>HTML · CSS · JavaScript</sub></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Ceyhun1999/Red-Solution-amp-Limkorm-">
+        <img src="https://raw.githubusercontent.com/Ceyhun1999/Red-Solution-amp-Limkorm-/main/docs/screenshots/desktop-hero.jpg" alt="Red Solution and Limkorm promo site" width="260">
+      </a>
+      <h3><a href="https://github.com/Ceyhun1999/Red-Solution-amp-Limkorm-">Red Solution &amp; Limkorm</a></h3>
+      <p>Promo site for a pet food giveaway: how to join, brands, prizes and FAQ. Responsive, no frameworks, GSAP scene.</p>
+      <p><sub>HTML · CSS · JavaScript · GSAP</sub></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Ceyhun1999/abb_campus">
+        <img src="https://raw.githubusercontent.com/Ceyhun1999/abb_campus/main/docs/screenshots/10-student-home-light.png" alt="ABB Campus iOS app" width="140">
+      </a>
+      <h3><a href="https://github.com/Ceyhun1999/abb_campus">ABB Campus</a></h3>
+      <p>iOS app for students, teachers and staff: schedule, grades, attendance and announcements. SwiftUI, MVVM, unit and UI tests, CI.</p>
+      <p><sub>Swift · SwiftUI · Laravel API</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm **Ceyhun Rzayev**, a developer specializing in **native iOS development** and **modern web applications**.
