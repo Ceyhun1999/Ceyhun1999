@@ -32,6 +32,8 @@
 
 ---
 
+<!-- Featured Projects (temporarily hidden)
+
 ## ⭐ Featured Projects
 
 <table>
@@ -64,6 +66,8 @@
 </table>
 
 ---
+
+-->
 
 ## 👨‍💻 About Me
 
