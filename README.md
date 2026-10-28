@@ -1,21 +1,32 @@
+ 
 <div align="center">
 
-# 👋 Hi, I'm Ceyhun Rzayev
+<h1>Ceyhun Rzayev</h1>
 
-### 🍎 iOS Developer
+<h3>🍎 iOS Developer &nbsp;·&nbsp; 🌐 Web Developer</h3>
 
-Building clean, scalable and user-focused iOS applications with
-**Swift · SwiftUI · UIKit**
+**Crafting native iOS applications and modern web experiences.**
+
+*Clean architecture. Thoughtful design. Seamless user experiences.*
+
+<br>
 
 <a href="https://github.com/Ceyhun1999">
-  <img src="https://img.shields.io/badge/GitHub-Ceyhun1999-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/jeyhun-rzayev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ceyhun_Rzayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/jeywa_studio">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="mailto:ceyhun.rzayeev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br><br>
+
+📍 **Based in Azerbaijan** &nbsp; | &nbsp; 💼 **Open to Opportunities & Collaborations**
 
 </div>
 
@@ -23,74 +34,105 @@ Building clean, scalable and user-focused iOS applications with
 
 ## 👨‍💻 About Me
 
+I'm **Ceyhun Rzayev**, a developer specializing in **native iOS development** and **modern web applications**.
+
+My primary focus is building intuitive, performant and maintainable applications for Apple's ecosystem using **Swift, SwiftUI and UIKit**.
+
+Alongside iOS development, I work with modern frontend technologies to create responsive, visually refined and user-friendly websites.
+
+I care about more than just writing code — I value the details that make software feel polished, reliable and effortless to use.
+
 ```swift
 struct Developer {
     let name = "Ceyhun Rzayev"
-    let role = "iOS Developer"
     let location = "Azerbaijan 🇦🇿"
 
-    let technologies = [
-        "Swift",
-        "SwiftUI",
-        "UIKit",
-        "REST API",
-        "MVVM"
+    let specialties = [
+        "iOS Development",
+        "Web Development"
     ]
 
-    let currentlyFocusedOn = [
-        "iOS Development",
-        "Clean Architecture",
-        "UI/UX",
-        "Networking",
-        "Reusable Components"
+    let principles = [
+        "Clean Code",
+        "Performance",
+        "User Experience",
+        "Continuous Improvement"
     ]
 }
 ```
-
-I'm an **iOS Developer** focused on building modern, maintainable and user-friendly mobile applications.
-
-I work with **Swift, SwiftUI and UIKit**, paying close attention to architecture, UI precision, application performance and clean code.
-
-Before moving into iOS development, I worked as a **Frontend Developer**, building and maintaining web applications. This background gave me strong experience with UI development, responsive interfaces and working with production projects.
 
 ---
 
 ## 🍎 iOS Development
 
+**Building native applications with a focus on clean architecture, fluid interfaces and exceptional user experience.**
+
+### Technologies
+
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
 </p>
 
-| Core iOS         | Networking             | Data & Persistence | Architecture           |
-| ---------------- | ---------------------- | ------------------ | ---------------------- |
-| Swift            | REST APIs              | UserDefaults       | MVVM                   |
-| SwiftUI          | URLSession             | Keychain           | MVC                    |
-| UIKit            | async / await          | FileManager        | SOLID                  |
-| Auto Layout      | JSONDecoder            | Core Data          | Dependency Injection   |
-| Navigation       | Error Handling         | Codable            | Separation of Concerns |
-| State Management | API Response Modeling  | Local Storage      | Reusable Components    |
-| Codable          | Loading / Error States | JSON               | Clean Code             |
+### Development Stack
 
-I focus on writing code that is easy to understand, maintain and extend.
+| Area | Technologies & Concepts |
+|:---|:---|
+| **Core Development** | Swift, SwiftUI, UIKit |
+| **UI Engineering** | Auto Layout, Navigation, State Management |
+| **Networking** | REST APIs, URLSession, async/await |
+| **Data Handling** | Codable, JSONDecoder, Error Handling |
+| **Persistence** | UserDefaults, Keychain, Core Data |
+| **Architecture** | MVVM, MVC, SOLID Principles |
+| **Code Quality** | Dependency Injection, Reusable Components |
 
----
+### Engineering Approach
 
-## 🚀 What I'm Working On
-
-| 📱 Development                  | 🏗 Engineering                          |
-| ------------------------------- | --------------------------------------- |
-| Native iOS applications         | MVVM architecture                       |
-| SwiftUI interfaces              | Clean architecture                      |
-| Navigation and application flow | Reusable SwiftUI components             |
-| REST API integration            | Application performance                 |
-| Local data persistence          | Improving my iOS architecture knowledge |
+- Building clean and reusable SwiftUI components
+- Creating responsive, consistent native interfaces
+- Separating business logic from presentation
+- Integrating APIs and managing asynchronous operations
+- Designing maintainable application structures
+- Improving application performance and usability
 
 ---
 
-## 🧠 Current Focus
+## 🌐 Web Development
+
+**Designing and developing modern, responsive and high-performance web experiences.**
+
+Alongside my work in iOS, I develop websites and web interfaces with a strong emphasis on design accuracy, accessibility, performance and usability.
+
+### Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### What I Do
+
+- Responsive website development
+- Modern frontend interfaces
+- UI implementation from Figma designs
+- Interactive components and animations
+- Website performance optimization
+- REST API integration
+- Cross-browser compatibility
+- Deployment and technical maintenance
+
+> My experience in frontend development strengthens my approach to building intuitive interfaces across both web and iOS platforms.
+
+---
+
+## 🚀 Current Focus
+
+Continuously improving my expertise in Apple's development ecosystem while building practical, real-world applications.
 
 ```swift
 enum CurrentFocus {
@@ -103,93 +145,75 @@ enum CurrentFocus {
 }
 ```
 
-My main goal is to grow as an **iOS Engineer** and build production-quality applications using Apple's ecosystem.
+**Currently exploring and improving:**
+
+- Advanced Swift and SwiftUI development
+- Application architecture and MVVM
+- Networking and asynchronous programming
+- Reusable UI components and design systems
+- Data persistence and application state
+- iOS performance and best practices
 
 ---
 
-<details>
-<summary><b>🌐 Previous Experience — Frontend Development</b></summary>
-
-<br>
-
-Before focusing on iOS, I worked professionally as a **Frontend Developer**.
-
-My frontend experience includes:
+## 🛠 Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
-* Responsive Design
-* Website Development
-* Deployment
-* Technical Support
-* Performance Optimization
-
-> Frontend development is part of my professional background, while my current career focus is **iOS Development**.
-
-</details>
 
 ---
 
-## 🛠 Tools
+## 💡 My Development Philosophy
 
-<p>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
+I believe great software comes from the balance between **engineering quality** and **user experience**.
 
-**Xcode · Git · GitHub · Figma · Postman · VS Code**
+My approach is guided by a few principles:
 
----
+**01. Simplicity** — Write clear, understandable code without unnecessary complexity.
 
-<details>
-<summary><b>💡 Development Principles</b></summary>
+**02. Maintainability** — Build systems that are easy to improve, scale and extend.
 
-<br>
+**03. Attention to Detail** — Focus on the small interactions that make products feel refined.
 
-**Clean Code · Simple Architecture · Reusable Components · Pixel-Perfect UI · Maintainability · Performance · User Experience**
+**04. Performance** — Create efficient applications and websites that remain fast and responsive.
 
-For me, good software should not only work — it should also be easy to understand, maintain and improve.
-
-</details>
+**05. Continuous Learning** — Keep improving through practice, experimentation and real-world development.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **iOS development opportunities**, collaborations and interesting projects.
+I'm open to **iOS development opportunities, web development projects, collaborations and interesting ideas**.
 
-|                 |                                                             |
-| --------------- | ----------------------------------------------------------- |
+Whether you're building a mobile application or a modern website, feel free to reach out.
+
+| Platform | Contact |
+|:---|:---|
 | 💼 **LinkedIn** | [Ceyhun Rzayev](https://www.linkedin.com/in/jeyhun-rzayev/) |
-| 💻 **GitHub**   | [@Ceyhun1999](https://github.com/Ceyhun1999)                |
-| ✈️ **Telegram** | [@jr_solutions](https://t.me/jr_solutions)                  |
-| 💬 **WhatsApp** | [+994 51 999 33 48](https://wa.me/994519993348)             |
-| 📞 **Phone**    | [+994 51 999 33 48](tel:+994519993348)                      |
-| 📧 **Email**    | [ceyhun.rzayeev@gmail.com](mailto:ceyhun.rzayeev@gmail.com) |
+| 💻 **GitHub** | [@Ceyhun1999](https://github.com/Ceyhun1999) |
+| ✈️ **Telegram** | [@jeywa_studio](https://t.me/jeywa_studio) |
+| 💬 **WhatsApp** | [+994 51 999 33 48](https://wa.me/994519993348) |
+| 📞 **Phone** | [+994 51 999 33 48](tel:+994519993348) |
+| 📧 **Email** | [ceyhun.rzayeev@gmail.com](mailto:ceyhun.rzayeev@gmail.com) |
+
+---
 
 <div align="center">
 
-### 🍎 Swift · SwiftUI · UIKit
+### 🍎 iOS Development &nbsp;·&nbsp; 🌐 Web Development
 
-**Code. Build. Learn. Improve.**
+**Building digital experiences with purpose and precision.**
 
-⭐ Feel free to explore my repositories and projects.
+*Code with clarity. Design with intention. Build for people.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ceyhun1999\&style=flat-square)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ceyhun1999&style=flat-square&color=007AFF" alt="Profile Views"/>
 
 </div>
